@@ -18,7 +18,6 @@
   "homepage": "https://github.com/MeganFuhr/my-first-serverless-project#readme",
   "dependencies": {},
   "devDependencies": {
-    "type": "module",
     "node-fetch": "^3.0.0"
   }
 }
